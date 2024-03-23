@@ -11,10 +11,10 @@
 My name is Justas.
 
 I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
-- :telescope: At the moment I’m working on my own Statistics application:
+- :chart_with_upwards_trend: At the moment I’m working on my own Statistics application:
 https://github.com/Scoutress/StatisticsApp
 
-- :zap: Most of my free time I spend with one of my passions - Gaming.
+- :video_game: Most of my free time I spend with one of my passions - Gaming.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Scoutress-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justaslek/)
 
