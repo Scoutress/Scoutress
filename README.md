@@ -10,11 +10,9 @@
 ### :woman_technologist: About Me :
 My name is Justas aka Scoutress.
 
-I am a Junior Java Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
+I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
 - :chart_with_upwards_trend: At the moment I’m working on my own Statistics application:
 https://github.com/Scoutress/StatisticsApp
-
-- :video_game: Most of my free time I spend with one of my passions - Gaming.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Scoutress-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justaslek/)
 
