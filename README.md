@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 My name is Justas aka Scoutress.
 
-I am a Junior Java Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
+I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
 - :chart_with_upwards_trend: At the moment I’m working on my own Statistics application:
 https://github.com/Scoutress/StatisticsApp
 
