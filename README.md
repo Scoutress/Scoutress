@@ -22,7 +22,6 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 https://github.com/Scoutress/StatisticsApp
 - Minecraft servers rankup tasks generator:
 https://github.com/Scoutress/Rankup-tasks-generator
-- Portfolio website
 
 ---
 
