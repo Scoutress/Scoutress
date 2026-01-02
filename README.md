@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 My name is Justas.
-In gaming community known as Scoutress.
+In the gaming community known as Scoutress.
 
 I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lithuania.
 
@@ -42,4 +42,4 @@ https://github.com/Scoutress/Rankup-tasks-generator
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoutress&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+(removed temporary)
