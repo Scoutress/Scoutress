@@ -20,8 +20,6 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 :chart_with_upwards_trend: At the moment I’m working on:
 - Minecraft Administration team statistics application:
 https://github.com/Scoutress/StatisticsApp
-- Minecraft servers rankup tasks generator:
-https://github.com/Scoutress/Rankup-tasks-generator
 
 ---
 
@@ -38,8 +36,3 @@ https://github.com/Scoutress/Rankup-tasks-generator
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-(removed temporary)
